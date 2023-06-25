@@ -1,3 +1,21 @@
+# To-Do List App in React Framework
+Within the scope of React courses on the online learning platform named [Patika.dev](https://academy.patika.dev/courses/react/odev2), I further developed a given basic to-do app.
+
+Features used:
+- **useState** Hook (specifically managed them by **passing** them as **props**)
+- **useEffect** Hook
+- a **custom** Hook for updating the **localstorage**
+- "**uuid**" library in order to map with unique IDs whilst rendering the UI
+- cooperation with **ChatGPT** to refactor the code and make more sense of the React documentation
+
+## Check out my app! Clone, run, and see what it's like!
+![](../todos-app/imgOnREADME/todo-1.png)
+![](../todos-app/imgOnREADME/todo-2.png)
+
+## Links
+- [Patika.dev](https://academy.patika.dev/courses/react/odev2)
+- [Kodluyoruz.org](https://kodluyoruz.org/)
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
