@@ -9,8 +9,8 @@ Features used:
 - cooperation with **ChatGPT** to refactor the code and make more sense of the React documentation
 
 ## Check out my app! Clone, run, and see what it's like!
-![todo UI](../todos-app/docs/imgOnREADME/todo-1.png)
-![todo UI](../todos-app/docs/imgOnREADME/todo-2.png)
+![todo UI](imgOnREADME/todo-1.png)
+![todo UI](imgOnREADME/todo-2.png)
 
 ## Links
 - [Patika.dev](https://academy.patika.dev/courses/react/odev2)
