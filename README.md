@@ -9,8 +9,8 @@ Features used:
 - cooperation with **ChatGPT** to refactor the code and make more sense of the React documentation
 
 ## Check out my app! Clone, run, and see what it's like!
-![todo UI](imgOnREADME/todo-1.png)
-![todo UI](imgOnREADME/todo-2.png)
+<p align="center"><img src="imgOnREADME/todo-1.png" alt="Todo UI 1" width="350"></p>
+<p align="center"><img src="imgOnREADME/todo-2.png" alt="Todo UI 2" width="350"></p>
 
 ## Links
 - [Patika.dev](https://academy.patika.dev/courses/react/odev2)
