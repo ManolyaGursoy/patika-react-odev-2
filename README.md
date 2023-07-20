@@ -11,6 +11,7 @@ Features used:
 ## Check out my app! Clone, run, and see what it's like!
 <p align="center"><img src="imgOnREADME/todo-1.png" alt="Todo UI 1" width="500"></p>
 <p align="center"><img src="imgOnREADME/todo-2.png" alt="Todo UI 2" width="500"></p>
+<p align="center"><img src="imgOnREADME/todo-gif.gif" alt="Todo UI gif"></p>
 
 ## Links
 - [Patika.dev](https://academy.patika.dev/courses/react/odev2)
